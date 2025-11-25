@@ -164,7 +164,7 @@ const Testimonials = () => {
         </div>
       </div>
     </section>
-  </button>);
+  );
 };
 
 export default Testimonials;
